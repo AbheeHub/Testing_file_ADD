@@ -1,2 +1,3 @@
-Hi I am a test account. I am using it foe testing purposes.
+Hi I am a test account. I am using it for testing purposes.
 This is great!
+You can contribute to it.
